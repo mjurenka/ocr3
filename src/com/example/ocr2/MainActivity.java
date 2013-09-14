@@ -1,4 +1,5 @@
 package com.example.ocr2;
+//Changed by JK
 
 import android.app.Activity;
 import android.content.Intent;
